@@ -1,0 +1,11 @@
+header {
+    display: none;
+}
+footer{
+    display: none;
+}
+html, body{
+    height: 297mm;
+    width: 210mm;
+    font-size: 14px;
+}
